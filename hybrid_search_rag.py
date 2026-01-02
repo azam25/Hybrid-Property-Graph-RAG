@@ -16,7 +16,7 @@ KEY CONCEPTS EXPLAINED:
    - Stores documents as nodes and relationships in a graph structure
    - Extracts entities and their connections from text
    - Enables traversal of knowledge relationships
-   - Example: "Carl Zeiss AG" (node) --[operates_in]--> "Germany" (node)
+   - Example: "Microsoft" (node) --[operates_in]--> "US" (node)
 
 2. HYBRID SEARCH:
    - Combines multiple retrieval strategies for better accuracy
