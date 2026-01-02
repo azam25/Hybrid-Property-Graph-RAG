@@ -49,8 +49,8 @@ import nest_asyncio
 
 # API Configuration - Replace with your own credentials
 # NOTE: This example uses a custom OpenAI-compatible server
-CUSTOM_API_KEY = "gen-c9gJtwRGwCnqp4eYWtvW8ZlLGIG64GpX67vkLuNyl4x0sMsk"
-CUSTOM_API_BASE = "https://llm-server.llmhub.t-systems.net/v2"
+CUSTOM_API_KEY = "YOUR API KEY"
+CUSTOM_API_BASE = "API BASE URL"
 
 # Model Configuration
 # LLM_MODEL: The language model for text generation and reasoning
